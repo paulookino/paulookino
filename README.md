@@ -9,6 +9,7 @@
 
 *10+ years shipping production systems for Home Depot (US), Zurich Insurance (global), Itaú, BMG, Riachuelo*
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-paulookino.vercel.app-000000?style=flat-square&logo=vercel)](https://paulookino.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pauloiao-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/pauloiao)
 [![Email](https://img.shields.io/badge/Email-paulookino@hotmail.com-D14836?style=flat-square&logo=gmail)](mailto:paulookino@hotmail.com)
 [![Location](https://img.shields.io/badge/São%20Paulo%2C%20Brazil-Remote%20worldwide-333?style=flat-square&logo=googlemaps)](https://linkedin.com/in/pauloiao)
