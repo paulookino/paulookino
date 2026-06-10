@@ -2,9 +2,10 @@
 
 # Paulo Almeida
 
-**Senior .NET Engineer · Microservices · AI Systems · Azure · GCP**
+**Senior .NET Engineer · Founder @ ProcessIA · AI Systems · Microservices · Azure · GCP**
 
 [![Available for hire](https://img.shields.io/badge/Available%20for%20hire-Open%20to%20remote%20%26%20relocation-brightgreen?style=for-the-badge)](mailto:paulookino@hotmail.com)
+[![ProcessIA](https://img.shields.io/badge/Founder-ProcessIA%20(AI%20SaaS)-8B5CF6?style=for-the-badge)](https://github.com/paulookino/processoia)
 
 *10+ years shipping production systems for Home Depot (US), Zurich Insurance (global), Itaú, BMG, Riachuelo*
 
@@ -16,13 +17,17 @@
 
 ---
 
-## What I build
+## What I do
 
-I design and ship distributed systems at enterprise scale. Not prototypes — production systems handling real volume for real companies.
+I design and ship distributed systems at enterprise scale — and build AI-powered products of my own.
 
-Current focus: **.NET + AI integration** — LLMs, RAG pipelines, and intelligent automation wired into production-grade backend infrastructure.
+**For enterprise:** Backend architecture for Home Depot (US), Zurich Insurance (global), and Brazil's major banks. Microservices, event-driven systems, DDD/CQRS. Systems that handle real volume, real stakes, real SLAs.
 
-Fully remote since 2019. English C1. Available immediately.
+**As a founder:** Building [ProcessIA](https://github.com/paulookino/processoia) — a B2B SaaS that processes legal documents using AI. OCR pipelines, LLM analysis, structured report generation. .NET 8 + Azure + Clean Architecture, owned end-to-end.
+
+**The intersection I live in:** `.NET + AI` — not AI as a buzzword, but as infrastructure. RAG pipelines, LLM-integrated APIs, intelligent automation built with the same rigor as any distributed system.
+
+Fully remote since 2019. English C1.
 
 ---
 
@@ -71,13 +76,14 @@ Fully remote since 2019. English C1. Available immediately.
 
 ---
 
-## Featured Projects
+## What I'm building
 
-### [ProcessIA](https://github.com/paulookino/processoia) — Legal Document Analysis with AI
-> .NET 8 · Azure · OCR · LLM Integration · Docker · Clean Architecture
+### [ProcessIA](https://github.com/paulookino/processoia) — AI-powered Legal Document Analysis
+> My product · .NET 8 · Azure · OCR · LLM Integration · Docker · Clean Architecture
 
-Full-stack B2B SaaS that processes legal documents using AI. Extracts, analyzes, and generates structured reports from unstructured legal PDFs in minutes instead of hours.
+B2B SaaS that processes legal documents using AI. Submit a PDF → OCR extraction → LLM analysis → structured report. Minutes instead of hours.
 
+- Designed and built end-to-end as founder & sole engineer
 - REST API with JWT auth + role-based authorization
 - OCR pipeline → AI analysis → PDF report generation
 - Multi-tenant architecture with Azure Blob Storage
@@ -86,6 +92,8 @@ Full-stack B2B SaaS that processes legal documents using AI. Extracts, analyzes,
 **Stack:** ASP.NET Core · Entity Framework · Azure Blob · OCR · LLM · SQL Server · Razor Pages
 
 ---
+
+## Enterprise Toolkit
 
 ### [dotnet-clean-architecture](https://github.com/paulookino/dotnet-clean-architecture) — Production-Ready Template
 > .NET 8 · Clean Architecture · CQRS · DDD · Docker
@@ -150,11 +158,12 @@ Production-grade background worker pattern for Azure Service Bus — built from 
 
 <div align="center">
 
-**Open to Senior .NET / Staff Engineer / Software Architect roles**
+**Senior .NET Engineer · Founder @ ProcessIA**
 
-Remote worldwide · International relocation · Available immediately
+Building AI-powered products with .NET · Open to remote worldwide & international relocation
 
 [![Email](https://img.shields.io/badge/paulookino@hotmail.com-Contact%20me-D14836?style=for-the-badge&logo=gmail)](mailto:paulookino@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin.com/in/pauloiao-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pauloiao)
+[![ProcessIA](https://img.shields.io/badge/ProcessIA-AI%20SaaS-8B5CF6?style=for-the-badge)](https://github.com/paulookino/processoia)
 
 </div>
